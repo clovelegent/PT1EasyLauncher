@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/default_wallpaper"
+    android:orientation="vertical" >
+
+    <com.softsz.pt1easylauncher.DragGridView
+        android:id="@+id/gview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:columnWidth="80dp"
+        android:numColumns="3"
+        android:stretchMode="columnWidth" >
+    </com.softsz.pt1easylauncher.DragGridView>
+
+</RelativeLayout>

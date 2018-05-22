@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PT1EasyLauncher</string>
+    <string name="add_item">Add</string>
+    <string name="select_add_app_title">Add Application</string>
+    <string name="select_remove_app_title">remove Application</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="delete">delete</string>
+    
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="title">移动交警通</string>
+    <string name="login">登录</string>
+    <string name="input_account_hint">请输入帐号</string>
+    <string name="input_pwd_hint">请输入密码</string>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,7,6,3,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,211,285,250,98,153",
+                        "endColumns": "39,37,37,33,53,56",
+                        "endOffsets": "92,244,318,279,147,205"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,95,133,171,205,259",
+                        "endColumns": "39,37,37,33,53,56",
+                        "endOffsets": "90,128,166,200,254,311"
+                    }
+                }
+            ]
+        }
+    ]
+}

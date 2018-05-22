@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="residentAppSName">
+        <item>酒精排查</item>
+        <item>消息公告</item>
+        <item>现场执法</item>
+        <item>违法记录</item>
+        <item>安全接入</item>
+        <item>语音对讲</item>
+        <item>系统设置</item>
+        <item>违停拍照</item>
+        <item>视频通话</item>
+    </string-array>
+    <string-array name="residentApps">
+        <item>com.softsz.alcoholinspection/com.softsz.alcoholinspection.MainActivity</item>
+        <item>com.softsz.tracecatch/com.softsz.tracecatch.ui.activity.LoginActivity</item>
+        <item>com.softsz.easymeasure/com.softsz.easymeasure.MainActivity</item>
+        <item>com.softsz.ilegalparking/com.softsz.ilegalparking.MainActivity</item>
+        <item>com.android.dialer/com.android.dialer.DialtactsActivity</item>
+        <item>com.android.browser/com.android.browser.BrowserActivity</item>
+        <item>com.android.deskclock/com.android.deskclock.DeskClock</item>
+        <item>com.android.camera2/com.android.camera.CameraActivity</item>
+        <item>com.android.settings/com.android.settings.Settings</item>
+        <!-- item>com.android.browser/com.android.browser.BrowserActivity</item -->
+        <!-- item>com.android.mms/com.android.mms.ui.ConversationList</item -->
+        <!-- item>com.android.dialer/com.android.dialer.DialtactsActivity</item -->
+    </string-array>
+    <color name="colorBackground">#2B5A83</color>
+    <color name="colorText">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="account">账号</string>
+    <string name="add_item">Add</string>
+    <string name="app_name">PT1EasyLauncher</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">delete</string>
+    <string name="input_account_hint">请输入帐号</string>
+    <string name="input_pwd_hint">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="ok">Ok</string>
+    <string name="password">密码</string>
+    <string name="select_add_app_title">Add Application</string>
+    <string name="select_remove_app_title">remove Application</string>
+    <string name="title">移动交警通</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/default_wallpaper">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/title"
+        android:textColor="@color/colorText"
+        android:textSize="40sp"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:id="@+id/account_note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="48dp"
+        android:layout_marginLeft="5dp"
+        android:layout_toStartOf="@+id/textView"
+        android:textColor="@color/colorText"
+        android:text="@string/account"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/device_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView"
+        android:layout_alignTop="@+id/account_note"
+        android:ems="10"
+        android:hint="@string/input_account_hint"
+        android:layout_marginLeft="5dp"
+        android:inputType="numberSigned" />
+
+    <TextView
+        android:id="@+id/pwd_note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/account_note"
+        android:layout_below="@+id/account_note"
+        android:layout_marginTop="29dp"
+        android:textSize="25sp"
+        android:textColor="@color/colorText"
+        android:text="@string/password" />
+
+    <EditText
+        android:id="@+id/device_pwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/pwd_note"
+        android:layout_alignBottom="@+id/pwd_note"
+        android:layout_alignStart="@+id/device_account"
+        android:layout_marginLeft="5dp"
+        android:hint="@string/input_pwd_hint"
+        android:ems="10"
+        android:inputType="numberPassword" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/device_pwd"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:text="@string/login"
+        android:textSize="20sp" />
+
+</RelativeLayout>

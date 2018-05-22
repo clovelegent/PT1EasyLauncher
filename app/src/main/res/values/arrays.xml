@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="residentApps">
+        <item>com.softsz.alcoholinspection/com.softsz.alcoholinspection.MainActivity</item>
+        <item>com.softsz.tracecatch/com.softsz.tracecatch.ui.activity.LoginActivity</item>
+        <item>com.softsz.easymeasure/com.softsz.easymeasure.MainActivity</item>
+        <item>com.softsz.ilegalparking/com.softsz.ilegalparking.MainActivity</item>
+        <item>com.android.dialer/com.android.dialer.DialtactsActivity</item>
+        <item>com.android.browser/com.android.browser.BrowserActivity</item>
+        <item>com.android.deskclock/com.android.deskclock.DeskClock</item>
+        <item>com.android.camera2/com.android.camera.CameraActivity</item>
+        <item>com.android.settings/com.android.settings.Settings</item>
+        <!-- item>com.android.browser/com.android.browser.BrowserActivity</item -->
+        <!-- item>com.android.mms/com.android.mms.ui.ConversationList</item -->
+        <!-- item>com.android.dialer/com.android.dialer.DialtactsActivity</item -->
+    </string-array>
+    
+    <string-array name="residentAppSName">
+        <item>酒精排查</item>
+        <item>消息公告</item>
+        <item>现场执法</item>
+        <item>违法记录</item>
+        <item>安全接入</item>
+        <item>语音对讲</item>
+        <item>系统设置</item>
+        <item>违停拍照</item>
+        <item>视频通话</item>
+    </string-array>
+
+</resources>

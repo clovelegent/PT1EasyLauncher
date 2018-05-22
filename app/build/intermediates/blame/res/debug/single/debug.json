@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_recod_illegal.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_recod_illegal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sound_chat.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_sound_chat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_take_picture_illegal_park.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_take_picture_illegal_park.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\layout_pwd_activity.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\layout\\pwd_activity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_system_setting.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_system_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_policy_work.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_policy_work.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_alcohol_check.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_alcohol_check.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_home.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_wallpaper.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\default_wallpaper.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vedio_chat.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_vedio_chat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_app_fragment.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\layout\\select_app_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_add.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_pwd.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\bg_pwd.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_app_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\layout\\select_app_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_security_join.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_security_join.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_easy_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\layout\\activity_easy_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_alcohol_check2.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_alcohol_check2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gridview_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_message.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PT1EasyLauncher1\\app\\src\\main\\res\\drawable-xhdpi\\ic_message.png"
+    }
+]
